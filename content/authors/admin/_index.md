@@ -54,17 +54,17 @@ skills:
       - name: Lab analysis
         description: ''
         percent: 80
-        icon: python
+        icon: flask
         icon_pack: fab
-      - name: GIS
+      - name: Field Geology
         description: ''
         percent: 80
-        icon: chart-line
+        icon: hammer
         icon_pack: fas
-      - name: MATLAB
+      - name: GIS, MATLAB, Pecube, Overleaf, Microsoft office
         description: ''
         percent: 80
-        icon: database
+        icon: computer
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
