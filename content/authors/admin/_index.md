@@ -1,89 +1,89 @@
 ---
 # Display name
-title: 吳健雄
+title: Lingxiao Gong
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ling Xiao Gong
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lingxiao
+last_name: Gong
 
 # Status emoji
-status:
+status: PhD student
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Potsdam
+    url: https://www.uni-potsdam.de/en/geo/institute/members/gong-ling-xiao
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include tectonic geomorphology, low-temperature thermochronology, and tectonics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tecotnic Geomorphology
+  - Low-temperature Thermochoronology
+  - Source-to-Sink
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in General Geology
+      institution: University of Potsdam
+      year: 2020
+    - course: MSc in Structural Geology
+      institution: China University of Geosciences, Beijing
+      year: 2017
+    - course: BSc in Geosciences
+      institution: China University of Geosciences, Beijing
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Lab analysis
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: GIS
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: MATLAB
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-running
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: bowl-rice
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,11 +93,11 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: gong@uni-potsdam.de
+  - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.researchgate.net/profile/Lingxiao-Gong-5
+    label: Follow me on ResearchGate
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
